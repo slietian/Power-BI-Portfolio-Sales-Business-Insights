@@ -22,7 +22,7 @@
 Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
 
 ## About Me
-I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. Visit [Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)
+I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. 
 
 ---
 - [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
@@ -81,17 +81,7 @@ If you have any questions, feedback, or collaboration opportunities, please feel
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
 
-
-## Author
-- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
-
-  
-## License
-Due to the extensive time invested in projects development and in consideration of privacy concerns, the some PBIX fils are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [NovyPro](https://www.novypro.com/profile_projects/tusharagg) profile. Thank you
+ed in projects development and in consideration of privacy concerns, the some PBIX fils are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [NovyPro](https://www.novypro.com/profile_projects/tusharagg) profile. Thank you
 
  
  
